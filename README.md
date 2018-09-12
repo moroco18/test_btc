@@ -4,7 +4,7 @@ Repositorio de pruebas de reclutamiento de BlueTide Web Consulting
 
 
 
-###Instrucciones:
+### Instrucciones:
 
 - [Iniciar sesión](https://github.com/login) o [registrarse](https://github.com/join?source=login) en la plataforma GitHub.
 - Hacer un fork en su cuenta de este repositorio en su cuenta de Github.
@@ -23,5 +23,3 @@ Existen multiples herramientas para la gestión de repositorios git:
 - Git para terminal de [Linux y Mac.](https://www.liquidweb.com/kb/install-git-ubuntu-16-04-lts/)
 - IDEs tipo [Atom](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com/) integran un cliente de git en su interfaz.
 - Cliente de [Windows y Mac](https://desktop.github.com/) de git.
-
-
