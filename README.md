@@ -11,7 +11,7 @@ Repositorio de pruebas de reclutamiento de BlueTide Web Consulting
 - Clonar el repositorio (El **fork** público hecho en el paso anterior) en su computadora de desarrollo
 - Abrir el archivo index.html en un navegador web.
 - Realizar las tareas y cambios solicitados en la prueba.
-- Hacer un **Commit** y un **Push** de la versión a su repositorio del proyecto con todos los cambios solicitados en la prueba.
+- Hacer un **Commit** y un **Push** de la versión terminada a su repositorio.
 - Hacernos llegar el link del repositorio (fork en su cuenta) a la dirección de correo work@bluetideconsulting.com junto con la confirmación de finalización de la prueba.
 
 
